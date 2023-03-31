@@ -13,8 +13,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 💻 &nbsp; C++ | Java
+- 🔧 &nbsp; Visual Studio code | Git
 
 <br>
 
