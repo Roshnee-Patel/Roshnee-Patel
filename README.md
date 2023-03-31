@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Roshnee Patel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Roshnee Verma. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <p align="center">I believe Open Source is for EVERYONE.</p>
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
